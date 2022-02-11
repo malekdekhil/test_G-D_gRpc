@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos/Compte.cs \
+obj\Debug\netcoreapp3.1\Protos/CompteGrpc.cs: C:/Users/malek/.nuget/packages/grpc.tools/2.41.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/Compte.proto
